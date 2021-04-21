@@ -6,6 +6,7 @@ Systems Analyst | Java Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-dominguez/)](https://www.linkedin.com/in/ronaldo-dominguez/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus.dominguez@outlook.com)](mailto:matheus.dominguez@outlook.com)
 
+### About me
 I am a young student of Systems Analysis and Development, curious about technologies and application development, always looking for personal and interpersonal development.
 Passionate about Technology. Pleased to acquire knowledge in general, enthusiastic about agile development
 
