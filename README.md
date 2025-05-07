@@ -1,19 +1,20 @@
-## Hello World ✋<br> I am Ronaldo Dominguez :man_technologist:
+## Hello World ✋<br> I am Ronaldo Domínguez :man_technologist:
 
-Systems Analyst | Java Developer
+Software Engineer | Java Developer
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-dominguez/)](https://www.linkedin.com/in/ronaldo-dominguez/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus.dominguez@outlook.com)](mailto:matheus.dominguez@outlook.com)
 
 ### About me
-I'm a system analyst, curious about technologies and application development, always looking for personal and interpersonal development.
+I'm a Software Engineer, curious about technologies and application development, always looking for personal and interpersonal development.
 Passionate about Technology. Pleased to acquire knowledge in general, enthusiastic about agile development
 
 ### Stacks: 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)  
