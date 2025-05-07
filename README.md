@@ -32,4 +32,4 @@ Passionate about Technology. Pleased to acquire knowledge in general, enthusiast
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=haejeog.haejeog)
 
 ### Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haejeog&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haejeog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
